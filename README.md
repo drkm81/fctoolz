@@ -4,7 +4,7 @@ Consist of the following:
 * RankingApp
 * TeamSelectorApp
 
-RankingApp
+**RankingApp**
 RankingApp is a script that calculates points scored by each fantasy teams with the help of statistics read from cricclubs.com.
 It is a simple GUI app with the following functionality:
   * Read stats from cricclubs.com
@@ -15,10 +15,10 @@ It is a simple GUI app with the following functionality:
     - Names of winners
     - Overall standing
     
-TeamSelectorApp
+**TeamSelectorApp**
 Stand alone executable that allows participants to select their playing 11.
 Forces constraints in to the selection process so that the selected team is complaint with with Fantasy team composition rules
-Once the selcted team passes complaince, it can be copied over and submitted
+Once the selcted team passes complaince, it can be copied over and submitted via google forms to the competition moderator
 
 
 
